@@ -7,7 +7,7 @@ https://github.com/ziranmin/twitchfe
 https://github.com/ziranmin/jupiter
 
 ## Tech Stack
-Java, Spring, Javascript, React, MySQL, AWS 
+Java, Spring MVC, Hibernate, JavaScript, React, MySQL, AWS 
 
 ## Summary 
 •	Built a web App for users to search game live streams and videos from Twitch and get personalized recommendation  <br />
